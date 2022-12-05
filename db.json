@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "id": 1670233482192,
+      "name": "sdfghjukl",
+      "author": "<azsxdcfvbg",
+      "isbn": "25",
+      "categoryId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Roman"
+    },
+    {
+      "id": "2",
+      "name": "Hikaye"
+    }
+  ]
+}
